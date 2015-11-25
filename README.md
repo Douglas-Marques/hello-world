@@ -8,4 +8,4 @@ Hi, programmers, developers, webmaster, designers(or related)!
   
   I'm beginning in the world of programming so I hope that Y'all be kind with me :3
   
-  I live in Brazil, I am 19 years old and love Breaking Bad(Yeah, that's three importants things to know abou me)!
+  I live in Brazil, I am 19 years old and love Breaking Bad(Yeah, that's three importants things to know about me)!
