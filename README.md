@@ -14,4 +14,6 @@ My first(of many) publication in GitHub
   
   At this point I am waiting for an opportunity to create products and develop my skills. So if y're interested, contact me at my email: douglasdgmarques@edu.unisinos.br or send me a tweet at @DouglazMarquez
   
+  P.S. You may also want visit my page at Gist: https://gist.github.com/Douglas-Marques
+  
   Have a nice day and see you soon!
